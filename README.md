@@ -13,7 +13,7 @@ Features:
   
   AppImage, Snap, Flatpak support
   
-  BTRF filesystem
+  BTRFS filesystem
 
 
 Preinstalled programs:
