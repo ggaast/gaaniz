@@ -1,15 +1,15 @@
 
 
-![](gaaniz_logo.svg)
+<img src="gaaniz_logo.svg" width="300">
 
-GAANIZ
+# GAANIZ
 
 Linux distro for Desktop
 
 Aimed to be **fast** and **smooth** at gaming and user space.
 
-Features: 
-=
+## Features: 
+
   Wayland and X11 support
 
   WM, KDE Plasma? and [Gnome](https://www.gnome.org/) out of box
@@ -26,8 +26,8 @@ Features:
   
 
 
-Preinstalled:
- =
+## Preinstalled:
+ 
   Brave browser, Firefox 100
   
   Discord, Telegram, Signal, Whatsapp
@@ -45,8 +45,8 @@ Preinstalled:
   
   
 
-Supported Models: 
-=
+## Supported Models: 
+
   Lenovo Thinkpad x270
   
   Asus GR8 II
