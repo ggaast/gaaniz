@@ -15,18 +15,21 @@ Features:
   
   BTRFS filesystem
   
-  Pipewire
+  [Pipewire](https://pipewire.org/) with [Helvum](https://gitlab.freedesktop.org/pipewire/helvum)
+  
 
 
-Preinstalled programs:
+Preinstalled:
  =
   Brave browser, Firefox 100
   
   Discord, Telegram, Signal, Whatsapp
   
-  bauh
+  [bauh](https://github.com/vinifmor/bauh)
   
-  Matrix
+  [Matrix](https://matrix.org/)
+  
+  [Zeronet](https://github.com/zeronet-conservancy/zeronet-conservancy/)
   
   
 
