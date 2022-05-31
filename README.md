@@ -31,7 +31,12 @@ Preinstalled:
   
   [Matrix](https://matrix.org/)
   
+  [Motrix](https://motrix.app/)?
+  
   [Zeronet](https://github.com/zeronet-conservancy/zeronet-conservancy/)
+  
+  [Netable](https://notable.app/#)?
+  
   
   
 
