@@ -7,7 +7,7 @@ Features:
 =
   Wayland and X11 support
 
-  DWM and Gnome out of box
+  WM, KDE Plasma? and Gnome out of box
   
   Arch Kernel, Aur, Pacman
   
@@ -15,13 +15,18 @@ Features:
   
   BTRF filesystem
 
+
 Preinstalled programs:
  =
-  Brave browser
+  Brave browser, Firefox 100
   
-  Discord
+  Discord, Telegram, Signal, Whatsapp
   
   bauh
+  
+  Matrix
+  
+  
 
 Supported Models: 
 =
