@@ -1,7 +1,7 @@
 # gaanix
 Linux distro for Desktop
 
-Aimed to be fast and smooth at gaming and user space.
+Aimed to be **fast** and **smooth** at gaming and user space.
 
 Features: 
 =
