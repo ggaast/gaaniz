@@ -7,7 +7,7 @@ Features:
 =
   Wayland and X11 support
 
-  WM, KDE Plasma? and Gnome out of box
+  WM, KDE Plasma? and [Gnome](https://www.gnome.org/) out of box
   
   Arch Kernel, Aur, Pacman
   
