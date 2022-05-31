@@ -17,6 +17,8 @@ Features:
   
   [Pipewire](https://pipewire.org/) with [Helvum](https://gitlab.freedesktop.org/pipewire/helvum)
   
+  [Bottles](https://github.com/bottlesdevs/Bottles)(Wine)
+  
 
 
 Preinstalled:
