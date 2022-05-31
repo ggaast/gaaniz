@@ -14,6 +14,8 @@ Features:
   AppImage, Snap, Flatpak support
   
   BTRFS filesystem
+  
+  Pipewire and Jack
 
 
 Preinstalled programs:
@@ -33,6 +35,7 @@ Supported Models:
   Lenovo Thinkpad x270
   
   Asus GR8 II
+  
 
 
 
