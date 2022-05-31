@@ -15,9 +15,13 @@ Features:
   
   BTRF filesystem
 
-Components:
+Preinstalled programs:
  =
-
+  Brave browser
+  
+  Discord
+  
+  bauh
 
 Supported Models: 
 =
