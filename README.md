@@ -15,7 +15,7 @@ Features:
   
   BTRFS filesystem
   
-  Pipewire and Jack
+  Pipewire
 
 
 Preinstalled programs:
