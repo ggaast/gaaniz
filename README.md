@@ -2,9 +2,9 @@
 
 <img src="gaaniz_logo.svg" width="300">
 
-# GAANIZ
+# GAANIZ is
 
-Linux distro for Desktop
+An Arch based Linux distro for Desktop
 
 Aimed to be **fast** and **smooth** at gaming and user space.
 
