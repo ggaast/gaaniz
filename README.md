@@ -29,6 +29,8 @@ Aimed to be **fast** and **smooth** at gaming and user space.
   Many smooth animations
   
   Automatic controller of backlight
+  
+  google drive syncronisation
 
 ## Preinstalled:
  
