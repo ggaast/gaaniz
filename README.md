@@ -28,7 +28,7 @@ Aimed to be **fast** and **smooth** at gaming and user space.
   
   Much smooth animations
   
-
+  Automatic controller of backlight
 
 ## Preinstalled:
  
