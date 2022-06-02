@@ -26,7 +26,7 @@ Aimed to be **fast** and **smooth** at gaming and user space.
   
   Custom sound effects
   
-  Much smooth animations
+  Many smooth animations
   
   Automatic controller of backlight
 
