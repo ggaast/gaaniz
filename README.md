@@ -24,6 +24,10 @@ Aimed to be **fast** and **smooth** at gaming and user space.
   
   [Bottles](https://github.com/bottlesdevs/Bottles)(Wine)
   
+  Custom sound effects
+  
+  Much smooth animations
+  
 
 
 ## Preinstalled:
@@ -41,6 +45,8 @@ Aimed to be **fast** and **smooth** at gaming and user space.
   [Zeronet](https://github.com/zeronet-conservancy/zeronet-conservancy/)
   
   [Netable](https://notable.app/#)?
+  
+  Gnome Boxes
   
   
   
