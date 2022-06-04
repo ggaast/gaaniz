@@ -31,6 +31,8 @@ Aimed to be **fast** and **smooth** at gaming and user space.
   Automatic controller of backlight
   
   google drive syncronisation
+  
+  fast and easy remove access to any Gaaniz station
 
 ## Preinstalled:
  
