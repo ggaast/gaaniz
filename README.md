@@ -32,7 +32,7 @@ Aimed to be **fast** and **smooth** at gaming and user space.
   
   google drive syncronisation
   
-  fast and easy remove access to any Gaaniz station
+  fast and easy remote access to any Gaaniz station
 
 ## Preinstalled:
  
