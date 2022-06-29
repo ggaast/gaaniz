@@ -34,9 +34,11 @@ Aimed to be **fast** and **smooth** at gaming and user space.
   
   fast and easy remote access to any Gaaniz station
 
-## Preinstalled:
+## Packages:
  
   Brave browser, Firefox 100
+  
+  Docker, Kubernetes, Agones
   
   ArmCord, Kotatogram, Signal, Whatsapp
   
