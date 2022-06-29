@@ -4,7 +4,7 @@
 
 # GAANIZ is
 
-An Arch based Linux distro for Desktop
+A make file to customise pure Arch linux 
 
 Aimed to be **fast** and **smooth** at gaming and user space.
 
@@ -38,7 +38,7 @@ Aimed to be **fast** and **smooth** at gaming and user space.
  
   Brave browser, Firefox 100
   
-  Discord, Telegram, Signal, Whatsapp
+  ArmCord, Kotatogram, Signal, Whatsapp
   
   [bauh](https://github.com/vinifmor/bauh)
   
